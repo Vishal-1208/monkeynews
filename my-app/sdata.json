@@ -1,0 +1,166 @@
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+ 
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Catherine Shu",
+"title": "Grab online bank leader Reuben Lai to step down",
+"description": "Reuben Lai, executive director at GXS Bank, is leaving the position at the end of this year. The news was first reported by Tech In Asia. Lai was head of Grab Financial Group until May 2022, and then executive director and head of regional strategy at GXS Ban…",
+"url": "https://techcrunch.com/2022/11/08/grab-financial-leader-reuben-lai-to-step-down/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-929538906.jpg",
+"publishedAt": "2022-11-08T09:21:56Z",
+"content": "Reuben Lai, executive director at GXS Bank, is leaving the position at the end of this year. The news was first reported by Tech In Asia. Lai was head of Grab Financial Group until May 2022, and then… [+1428 chars]"
+},
+
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Manish Singh",
+"title": "Amazon quietly opens its logistics network to third-party merchants in India",
+"description": "Amazon is beginning to offer its transportation and logistics network to third-party merchants and direct-to-consumer brands in India.",
+"url": "https://techcrunch.com/2022/11/07/amazon-quietly-opens-its-logistics-network-to-third-party-merchants-in-india/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-683975638.jpg?resize=1200,800",
+"publishedAt": "2022-11-08T07:50:51Z",
+"content": "Amazon is quietly beginning to offer its transportation and logistics network as a service to third-party merchants, businesses and direct-to-consumer brands in India, tapping its large delivery chai… [+2195 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Rita Liao",
+"title": "Nvidia touts a slower chip for China to avoid US ban",
+"description": "Two months after the U.S. choke off China’s access to two of Nvidia’s high-end microchips, the American semiconductor design giant unveiled a substitute with a reduced processing speed for its second-largest market. The Nvidia A800 graphic processing unit is …",
+"url": "https://techcrunch.com/2022/11/07/nvidia-us-china-ban-alternative/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-902417454.jpg?resize=1200,788",
+"publishedAt": "2022-11-08T04:04:36Z",
+"content": "Two months after the U.S. choke off China’s access to two of Nvidia’s high-end microchips, the American semiconductor design giant unveiled a substitute with a reduced processing speed for its second… [+2519 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Rebecca Bellan",
+"title": "Musk's $56 billion Tesla pay deal goes to trial amid Twitter overhaul",
+"description": "On November 14, Elon Musk will have to defend his $56 billion Tesla pay package against lawsuit that calls him a 'part time CEO.'",
+"url": "https://techcrunch.com/2022/11/07/musks-56-billion-tesla-pay-deal-goes-to-trial-amid-twitter-overhaul/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/elon-musk-twitter-dollar-signs.jpg?resize=1200,645",
+"publishedAt": "2022-11-08T01:50:50Z",
+"content": "As if Elon Musk didn’t have enough on his plate, the world’s richest man is headed to court next week to defend his $56 billion Tesla pay package. Richard Tornetta, a Tesla shareholder who filed suit… [+3475 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Connie Loizos",
+"title": "Outgoing YC President Geoff Ralston: the market is changing; YC's terms are not",
+"description": "Y Combinator President Geoff Ralston talks about the past, present, and future of the popular accelerator program.",
+"url": "https://techcrunch.com/2022/11/07/outgoing-yc-president-geoff-ralston-the-market-is-changing-ycs-terms-are-not/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-07-at-3.08.57-PM.png?resize=1200,776",
+"publishedAt": "2022-11-08T01:28:13Z",
+"content": "Last week at Web Summit, we were asked to interview outgoing Y Combinator President Geoff Ralston about the past, present, and future of the popular accelerator program. We covered a lot of ground du… [+11135 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Rebecca Bellan",
+"title": "Lyft takes $135.7 million hit on Argo AI shutdown",
+"description": "Lyft lost its small stake in Argo AI when the company recently shutdown. Lyft and Argo's robotaxi operations have ceased operating.",
+"url": "https://techcrunch.com/2022/11/07/lyft-takes-135-7-million-hit-on-argo-ai-shutdown/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/Lyft-Argo-Ford_AV-Escape-Hybrid_02.jpg?resize=1200,801",
+"publishedAt": "2022-11-08T00:25:08Z",
+"content": "Ride-hailing company Lyft lost $135.7 million in the third quarter due to the shutdown of autonomous vehicle company Argo AI, in which Lyft had a small stake.\r\nLate last month, Argo AI closed its doo… [+4251 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Kirsten Korosec",
+"title": "Foxconn invests another $170M into EV SPAC Lordstown Motors",
+"description": "Foxconn is increasing its investment in Lordstown Motors by buying $170 million in common stock and newly created preferred shares.",
+"url": "https://techcrunch.com/2022/11/07/foxconn-invests-another-170m-into-ev-spac-lordstown-motors/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Lordstown_Endruance_Photo008.jpg?resize=1200,800",
+"publishedAt": "2022-11-07T23:45:06Z",
+"content": "Taiwanese manufacturer Foxconn is increasing its investment in EV startup Lordstown Motors by buying $170 million in common stock and newly created preferred shares.\r\nOnce the deal is complete, Foxco… [+3282 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Taylor Hatmaker",
+"title": "Elon Musk’s Twitter faces US midterm elections, his first high-stakes test",
+"description": "Elon Musk's Twitter faces U.S. midterm elections with half the staff, fresh chaos and an unstable leader at the wheel.",
+"url": "https://techcrunch.com/2022/11/07/elon-musk-twitter-us-midterm-elections/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/twitter-bird-in-cage-3.jpg?resize=1200,645",
+"publishedAt": "2022-11-07T23:06:52Z",
+"content": "As the U.S. braces for midterm elections, the first major voting cycle since the violence on January 6, Elon Musks intensely chaotic Twitter takeover adds more uncertainty to an already tense time. W… [+8325 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Christine Hall",
+"title": "Doola nurses new capital for its ‘business in a box’ tool targeting global founders",
+"description": "Doola, which has seen its revenue grow by seven times since 2020, is building a one-stop solution for compliantly forming a company.",
+"url": "https://techcrunch.com/2022/11/08/doola-nurses-new-capital-for-its-business-in-a-box-tool-targeting-global-founders/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/doola-founders-manhattan-rooftop-waist-up.jpg?resize=1200,675",
+"publishedAt": "2022-11-07T20:58:33Z",
+"content": "Doola, a company helping global founders start a limited liability company in the United States, even without a Social Security number, raised an $8 million round of funding.\r\nThe new investment come… [+2894 chars]"
+},
+{
+"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Romain Dillet",
+"title": "Former Tink employees launch Atlar, a payment automation startup",
+"description": "Stockholm-based startup Atlar raised a $5 million (€5 million) seed round led by Index Ventures. The company has been working on an application programming interface (API) that facilitates bank-to-bank payments for European businesses. In addtion to Index Ven…",
+"url": "https://techcrunch.com/2022/11/07/former-tink-employees-launch-atlar-a-payment-automation-startup/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Atlar_003.jpg?resize=1200,800",
+"publishedAt": "2022-11-07T17:17:08Z",
+"content": "Stockholm-based startup Atlar raised a $5 million (5 million) seed round led by Index Ventures. The company has been working on an application programming interface (API) that facilitates bank-to-ban… [+2323 chars]"
+},
+{
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Peony Hirwani",
+    "title": "All the celebrities who have left Twitter after Elon Musk’s takeover",
+    "description": "‘Not hanging around for whatever Elon has planned. Bye,’ Shonda Rhimes wrote",
+    "url": "https://www.independent.co.uk/life-style/celebrities-elon-musk-stephen-fry-leaves-twitter-b2221058.html",
+    "urlToImage": "https://static.independent.co.uk/2022/11/01/05/twitter.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-11-09T07:03:07Z",
+    "content": "Stay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter\r\nStay ahead of the trend in fashion and beyond with our free weekly Lifestyle Edit newsletter \r\nEver since… [+3180 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TheJournal.ie"
+    },
+    "author": "AFP",
+    "title": "Elon Musk sells nearly $4 billion in Tesla stock",
+    "description": "Musk’s actions since taking over Twitter have prompted warnings from the United Nations.",
+    "url": "https://www.thejournal.ie/musk-sells-tesla-stock-5914665-Nov2022/",
+    "urlToImage": "https://img2.thejournal.ie/article/5914665/river/?height=400&version=5914676",
+    "publishedAt": "2022-11-09T06:52:41Z",
+    "content": "TESLA CHIEF ELON Musk sold nearly $4 billion worth of shares in the electric car company, SEC filings showed yesterday, more than a week after he closed his $44 billion acquisition of Twitter.\r\nMusk … [+2068 chars]"
+    }
+
+    ]
+}
